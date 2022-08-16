@@ -6,7 +6,6 @@
 ./gradlew setup --info
 ```
 
-
 * Edit the 'das.yaml' and 'gradle.properties' file pointing to an existing database
 
 ``` groovy
